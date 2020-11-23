@@ -1,0 +1,16 @@
+______________________________________________________________________________#
+	#sem.ml
+
+	TODO:
+	Implementare typecheck Equals solo tra tipi uguali ( es -> 1 = true deve dare errore )
+
+	Numero test:
+	22 -> Per non perdere punti dobbiamo fare in modo di non creare liste eterogenee
+
+
+
+#______________________________________________________________________________#
+	inference.ml
+
+	Test are all Passed!!
+#______________________________________________________________________________#
